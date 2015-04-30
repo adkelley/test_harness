@@ -17,7 +17,6 @@ var getMax = function (arr) {
 
 var test = function() {
   assert(true, "Testing Functions");
-
   assert(getMax([0, 1, 2, 3, 4, 5]) === 5, "getMax() returns 5");
 
 }
