@@ -21,7 +21,8 @@ var testSuite = {
       (max < arr[i]) ? max = arr[i] : max;
     }
     return max;
-  }
+  },
+  yourTestFunction: function() {}
 }
 
 //Run test functions here
